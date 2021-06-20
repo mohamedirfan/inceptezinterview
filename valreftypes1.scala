@@ -2,10 +2,6 @@ package org.inceptez.scalaprograms
 // Function based / OOPS (Spark framework)
 //1. Variables/Values/simple types, conditional, control statements
 //2. Methods/Functions
-//3. Collections
-//4. OOPS, methods predefined/userdefined
-// I won't be providing recordings
-// Raise questions at any point voice, chat, address immediate/later before break..
 
 object valrefandtypes11 {
     //main method is the entry point of the scala program
@@ -23,7 +19,7 @@ object valrefandtypes11 {
     		2. Immutable Variable - only assign value, cannot change 
     * */
     
-    val bonus:Int = 1000
+    val bonus:Int = 2000
     var salary:Int = 20000
     
    //bonus = 2000
