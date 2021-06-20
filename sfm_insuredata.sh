@@ -1,4 +1,5 @@
 #set -x
+#added some lines of code
 dt=`date '+%Y%m%d%H'`
 
 if [ $# -ne 1 ]
